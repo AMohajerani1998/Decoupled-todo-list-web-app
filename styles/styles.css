@@ -46,8 +46,8 @@ article form {
     text-align: center;
 }
 article form textarea {
-    height: 5rem;
-    margin: 0;
+    height: 2rem;
+    margin: auto 0;
     width: 16rem;
 }
 section, article {
